@@ -6,7 +6,7 @@ from sklearn.model_selection import StratifiedKFold
 from MY_HDCA_module import train_HDCA, test_HDCA
 from loadmat import load_data_and_labels
 from AUC import auc
-mengxu coded xumeng@bjut.edu.cn
+# mengxu coded xumeng@bjut.edu.cn
 windowlength = 10
 
 # 设置被试列表
